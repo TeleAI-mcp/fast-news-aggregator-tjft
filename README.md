@@ -1,2 +1,3 @@
-# fast-news-aggregator-tjft
-Automated issue comment bot repository
+# Fast News Aggregator Tjft
+
+Automated issue comment bot repository.
